@@ -1,1 +1,1 @@
-# week3-rockpaperscissors.js
+# week3-miniproject.js
